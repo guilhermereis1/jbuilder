@@ -271,12 +271,8 @@ require 'multi_json'
 MultiJson.use :yajl
  ```
 
-## Contributing to Jbuilder
+ Guilherme Reis
 
-Jbuilder is the work of many contributors. You're encouraged to submit pull requests, propose
-features and discuss issues.
+ * https://www.worldcode.com.br
 
-See [CONTRIBUTING](CONTRIBUTING.md).
-
-## License
-Jbuilder is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+ ![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
